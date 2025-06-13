@@ -55,11 +55,11 @@ export default function About() {
             </div>
             <div className="text-center p-6 rounded-lg bg-gradient-to-br from-purple-500/10 to-pink-500/10 border border-purple-500/20">
               <h3 className="text-2xl font-bold text-purple-400 mb-2">10+</h3>
-              <p className="text-gray-300">Projects Completed</p>
+              <p className="text-gray-300">Built and Deployed</p>
             </div>
             <div className="text-center p-6 rounded-lg bg-gradient-to-br from-pink-500/10 to-blue-500/10 border border-pink-500/20">
-              <h3 className="text-2xl font-bold text-pink-400 mb-2">100%</h3>
-              <p className="text-gray-300">Client Satisfaction</p>
+              <h3 className="text-2xl font-bold text-pink-400 mb-2">User-Centric Design</h3>
+              <p className="text-gray-300">Focused on usability & accessibility</p>
             </div>
           </motion.div>
         </div>
