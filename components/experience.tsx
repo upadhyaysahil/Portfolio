@@ -45,7 +45,7 @@ export default function Experience() {
               </div>
               <div className="flex items-center">
                 <MapPin className="w-4 h-4 mr-2" />
-                <span>Remote</span>
+                <span>In Office</span>
               </div>
             </div>
 
