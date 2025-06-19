@@ -32,7 +32,7 @@ export default function Experience() {
               <div className="p-3 rounded-full bg-blue-500/20 mr-4">
                 <Briefcase className="w-6 h-6 text-blue-400" />
               </div>
-              <div>
+              <div className="text-left">
                 <h3 className="text-2xl font-bold text-white">Frontend Developer</h3>
                 <p className="text-xl text-blue-400 font-semibold">AltissAdvance Technologies Pvt. Ltd.</p>
               </div>
