@@ -114,7 +114,7 @@ export default function Projects() {
         "Automated report generation and export functionality"
       ],
       links: [
-        { label: "View Code", url: "#", icon: <Github className="w-4 h-4" /> },
+        { label: "View Code", url: "https://github.com/upadhyaysahil/BMS-", icon: <Github className="w-4 h-4" /> },
       ],
       iconColor: "#A855F7",
       borderColor: "#9333EA",
