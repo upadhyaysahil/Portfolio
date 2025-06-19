@@ -32,7 +32,7 @@ export default function Education() {
               <div className="p-3 rounded-full bg-cyan-500/20 mr-4">
                 <GraduationCap className="w-6 h-6 text-cyan-400" />
               </div>
-              <div>
+              <div className="text-left">
                 <h3 className="text-2xl font-bold text-white">Bachelor's in Information Technology</h3>
                 <p className="text-xl text-cyan-400 font-semibold">E.B. Madhavi Senior College</p>
               </div>
