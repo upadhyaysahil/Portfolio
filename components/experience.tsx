@@ -33,7 +33,7 @@ export default function Experience() {
                 <Briefcase className="w-6 h-6 text-blue-400" />
               </div>
               <div className="text-left">
-                <h3 className="text-2xl font-bold text-white">Frontend Developer</h3>
+                <h3 className="text-2xl font-bold text-white">Full Stack Developer</h3>
                 <p className="text-xl text-blue-400 font-semibold">AltissAdvance Technologies Pvt. Ltd.</p>
               </div>
             </div>
@@ -41,7 +41,7 @@ export default function Experience() {
             <div className="flex items-center text-gray-400 mb-6 space-x-4">
               <div className="flex items-center">
                 <Calendar className="w-4 h-4 mr-2" />
-                <span>Aug 2023 – Present</span>
+                <span>Aug 2023 – Aug 2025</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="w-4 h-4 mr-2" />

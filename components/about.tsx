@@ -27,9 +27,10 @@ export default function About() {
             animate={isInView ? { opacity: 1 } : { opacity: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            I'm a passionate Frontend Developer with 1.5+ years of hands-on experience in building dynamic, user-centric
-            web applications. My journey in web development has been driven by a love for creating seamless user
-            experiences and clean, intuitive interfaces.
+            Full-Stack Developer with 2 years of experience in building scalable and responsive web applications using
+            React.js, NEXT.js Django, Node.js, and modern technologies. Strong expertise in both front-end and back-end
+            development, with a proven track record of delivering high-quality, secure, and performant applications. Eager
+            to contribute to innovative projects and continuously enhance technical expertise.
           </motion.p>
 
           <motion.p

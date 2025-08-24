@@ -29,7 +29,7 @@ export default function Hero() {
             </h1>
 
             <h2 className="text-xl sm:text-2xl md:text-3xl text-gray-300 font-light">
-              Frontend Developer
+              Full Stack Developer
             </h2>
 
             <p className="text-base sm:text-lg text-gray-400 max-w-md">
